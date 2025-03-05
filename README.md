@@ -1,7 +1,7 @@
 # GLViewer-3D
 GLViewer is an interesting 3D CAD software based on QT &amp; CGLib &amp; OpenGL.
 
-You can click "Release" label on the right side panel to download the latest CGViewer and try some use the on it.
+You can click "Releases" label on the right side panel to download the latest CGViewer and try some use the on it.
 
 Please contact me if you have any questions or suggestions.
 
